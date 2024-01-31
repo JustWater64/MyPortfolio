@@ -1,0 +1,68 @@
+html{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    margin: -8px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    background-color: #09b4aa;
+    color: #005547;
+}
+footer {
+    position: relative;
+    margin: -7px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 30px;
+    background-color:#09b4aa;
+    color: #005547;
+}
+div{
+    margin: 15px;
+    padding: 5px;
+    background-color: #078077;
+    border-radius: 50px;
+    border-color: #00261D;
+    color: #BDF3FF;
+}
+section{
+    margin: 15px;
+    padding: 5px;
+}
+.projectsdiv{
+    margin: 15px;
+    padding: 45px;
+    background-color: #078077;
+    border-radius: 50px;
+    color: #BDF3FF;
+}
+.aboutMeImg{
+    padding-top: 0px;
+    padding-left: 320px;
+    height: 250px;
+    width: 200px;
+    color: #BDF3FF;
+}
+.project2Img{
+    padding-top: 0px;
+    padding-left: 200px;
+    height: 250px;
+    width: 575px;
+    color: #BDF3FF;
+}
+.section-img{
+    height: 550px;
+    width: 575px;
+    padding-left: 370px;
+}
+.project1Img{
+    padding-top: 0px;
+    padding-left: 348px;
+    height: 400px;
+    width: 320px;
+    color: #BDF3FF;
+}
